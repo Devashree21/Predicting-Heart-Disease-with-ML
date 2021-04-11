@@ -6,7 +6,7 @@
 
 This repository is contains a Machine Learning model for predicting Heart Diseases.
 
-It includes the jupyter notebook (.ipynb), PDF file created from the jupyter notebook with results and a readme.
+It includes the jupyter notebook (.ipynb), .csv file and a readme.
 
 **2) Which dataset has been used and where to find it?**
 
